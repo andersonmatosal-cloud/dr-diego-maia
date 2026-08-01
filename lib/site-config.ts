@@ -32,7 +32,7 @@ export const siteConfig = {
     },
   ],
 
-  siteUrl: "https://www.drdiegomaia.com.br",
+  siteUrl: "https://dr-diego-maia.vercel.app",
 };
 
 export function getWhatsAppLink(message?: string) {
